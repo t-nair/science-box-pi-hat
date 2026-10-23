@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV8825PWPR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=29
+Version=4.1
+Released=2017-07-06 11:33:57
+Downloaded=2026-10-23 20:26:18
+3D=Y

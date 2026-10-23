@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8825PWPR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8825PWPR" (!) = "", "SOP65P640X120-29N", "Small Outline Packages", "595-DRV8825PWPR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV8825PWPR?qs=L4ss%2FyqpMWRQV%252B0JWK8r%2FQ%3D%3D", "2.5A Bipolar Stepper Motor Driver with On-Chip 1/32 Microstepping Indexer (Step/Dir Ctrl)", "http://www.ti.com/lit/gpn/drv8825", "1.2 mm"
+END_PART
+
+END.

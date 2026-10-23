@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DRV8825PWPR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-04-08-15:24:05)
+    (mountForm default
+        (footprintRef "SOP65P640X120-29N")
+        (spec "System")
+    )
+)

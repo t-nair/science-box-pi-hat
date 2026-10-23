@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8825PWPR
+D 2.5A Bipolar Stepper Motor Driver with On-Chip 1/32 Microstepping Indexer (Step/Dir Ctrl)
+K
+F http://www.ti.com/lit/gpn/drv8825
+$ENDCMP
+#
+#End Doc Library
